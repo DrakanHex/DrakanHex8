@@ -5422,9 +5422,8 @@ hash = "b8ffa48e1f9e0cae2d396e1ca0942ab7ee99fc675c81208fb38909696b0ec968"
 metafile = true
 
 [[files]]
-file = "mods/hexal.pw.toml"
-hash = "5f80b31bafd1146edd0907f78fbaf096383ddfc53ce2fd81d961f4bd66a14fa7"
-metafile = true
+file = "mods/hexal-forge-1.20.1-0.3.1.jar"
+hash = "a850b935cb6e63b7303d760e5d45166c43b827a28760be52e7291392edd698da"
 
 [[files]]
 file = "mods/hexboard.pw.toml"
