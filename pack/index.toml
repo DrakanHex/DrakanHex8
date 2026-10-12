@@ -5,6 +5,10 @@ file = "config/Advancedperipherals/world.toml"
 hash = "c35054cf2c10f51cf4903ea60ace11a873336eb601146b317587e585843150d8"
 
 [[files]]
+file = "config/CSC/config.toml"
+hash = "4fc861d7af5323ee06bf514f94be418937e79ea308945e05a07065699ef611e4"
+
+[[files]]
 file = "config/EasyAuth/extended.conf"
 hash = "4c6645f176446947b3cadf37d4f4dfc3d555f40d6ecf036e28dc357af7300172"
 
@@ -5301,6 +5305,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "d07bdbfd246533ad3297d39811701df4bb2280adaaffe3431fdf3b85787eb9e6"
+metafile = true
+
+[[files]]
+file = "mods/createschematicchecker.pw.toml"
+hash = "3a82fda839b4feba6b441f4f12fbe3623b7ff6f7e9764fa9764b52356c8d26dd"
 metafile = true
 
 [[files]]
