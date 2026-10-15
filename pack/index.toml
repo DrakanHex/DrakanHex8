@@ -5254,8 +5254,8 @@ hash = "5ac32407263c973bebc5aee61fe000d29d9879020fafb6631581396b64e55dfe"
 metafile = true
 
 [[files]]
-file = "mods/complexhex-5865deb9.jar"
-hash = "c16abb20e9b2c55880ce19ec140155d4dcc099a8fef8d675cdc52a4d2672bf76"
+file = "mods/complexhex-fabric-1.20.1-0.1.6-beta-a6713159.jar"
+hash = "398d6fbc7943b48e6c5d4f51492567eec68d55590173f80a3272a99f54cfab97"
 
 [[files]]
 file = "mods/configured.pw.toml"
