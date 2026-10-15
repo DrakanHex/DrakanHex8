@@ -5563,8 +5563,8 @@ hash = "1ebe3280f7a3f385898ea7c0398d0cf16ad977084771d01e13677b78304604f6"
 metafile = true
 
 [[files]]
-file = "mods/letsdo-furniture-forge-1.0.4-a97f3102.jar"
-hash = "20cb2e6f4f5edbf3e4c83668a3b13a7019f617bd914a14c5dfc70c199e80a552"
+file = "mods/letsdo-furniture-forge-1.0.4.jar"
+hash = "e2564ba4039be8c46e34d944a930dd2b5248191eab37cc52d4ffa48a61473d33"
 
 [[files]]
 file = "mods/lithosphere.pw.toml"
