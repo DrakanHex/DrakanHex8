@@ -35,6 +35,7 @@ UUID = "22faf2a9-c1c5-46c8-b809-47abcc7f09f9"
     # #----------------------------------------------------------------------
     # Only mods listed here will be allowed to retain NBT. Enter the modid (e.g., for minecraft:dirt, enter minecraft)
     WhiteListModList = [
+        "hexcasting",
         "create",
         "minecraft",
         "createdieselgenerators",
@@ -95,6 +96,7 @@ UUID = "22faf2a9-c1c5-46c8-b809-47abcc7f09f9"
     # #----------------------------------------------------------------------
     # BanTag. If any block has tag in this list will be cleared!
     BanTag = [
+        "iota",
         "AttributeModifiers",
         "run_command",
         "using_converts_to",
