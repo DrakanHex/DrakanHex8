@@ -6,7 +6,7 @@ hash = "c35054cf2c10f51cf4903ea60ace11a873336eb601146b317587e585843150d8"
 
 [[files]]
 file = "config/CSC/config.toml"
-hash = "4fc861d7af5323ee06bf514f94be418937e79ea308945e05a07065699ef611e4"
+hash = "57baa4d0b7d2125272b157f0a08ff019b1b1117982db9c822740dc6a20694a7e"
 
 [[files]]
 file = "config/EasyAuth/extended.conf"
